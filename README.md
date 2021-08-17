@@ -2,7 +2,7 @@
 
 [My pronouns are he/him](https://pronoun.is/he).
 
-I'm a **front-end developer** with a particular interest in:
+**I'm a front-end developer** with a particular interest in:
 
 * Accessibility
 * Privacy
