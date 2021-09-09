@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Kieran!
 
-[My pronouns are he/him](https://pronoun.is/he).
+My pronouns are [he/him/his/himself](https://pronoun.is/he).
 
 **I'm a front-end developer** with a particular interest in:
 
