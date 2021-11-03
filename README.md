@@ -11,4 +11,4 @@ My pronouns are [he/him/his/himself](https://pronoun.is/he).
 
 **I write about front-end web development** with a focus on [The Lean Web](https://leanweb.dev/). I'm inspired by Nathan Barry's motto, "[teach everything you know](https://nathanbarry.com/89697-reasons-to-teach/)". I also take a lot of inspiration from my friend and mentor, [Chris Ferdinandi](https://github.com/cferdinandi).
 
-[Visit my blog](https://kbarker.dev/)
+[Visit my blog](https://barker.codes/)
