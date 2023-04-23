@@ -1,7 +1,5 @@
 # About Me
 
-![Kieran holds a Pomeranian who smiles up at him.](https://barker.codes/images/kieran/kieran-and-dusky.jpg)
-
 > In building a statue, a sculptor doesn’t keep adding clay to his subject. Actually, he keeps chiseling away at the nonessentials until the truth of his creation is revealed without obstruction.
 >
 > — Bruce Lee
