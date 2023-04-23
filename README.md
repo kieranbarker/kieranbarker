@@ -1,4 +1,4 @@
-# About Me
+## About Me
 
 > In building a statue, a sculptor doesn’t keep adding clay to his subject. Actually, he keeps chiseling away at the nonessentials until the truth of his creation is revealed without obstruction.
 >
