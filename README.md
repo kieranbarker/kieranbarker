@@ -1,14 +1,13 @@
-# 👋 Hey, I'm Kieran!
+# About Me
 
-My pronouns are [he/him/his/himself](https://pronoun.is/he).
+![Kieran holds a Pomeranian who smiles up at him.](https://barker.codes/images/kieran/kieran-and-dusky.jpg)
 
-**I'm a front-end developer** with a particular interest in:
+> In building a statue, a sculptor doesn’t keep adding clay to his subject. Actually, he keeps chiseling away at the nonessentials until the truth of his creation is revealed without obstruction.
+>
+> — Bruce Lee
 
-* Accessibility
-* Privacy
-* User experience
-* Web performance
+Hi, I’m Kieran Barker! I’m a **Workshop Instructor** for the [Software Engineering programme at Multiverse](https://www.multiverse.io/en-GB/programmes/software-engineering) (though I prefer the term “Software Development”). We’re creating a diverse group of future leaders. I <span aria-label="heart">❤️</span> accessibility and social justice.
 
-**I write about front-end web development** with a focus on [The Lean Web](https://leanweb.dev/). I'm inspired by Nathan Barry's motto, "[teach everything you know](https://nathanbarry.com/89697-reasons-to-teach/)". I also take a lot of inspiration from my friend and mentor, [Chris Ferdinandi](https://github.com/cferdinandi).
+Prior to joining Multiverse, I was a **Teaching Assistant** at the [Vanilla JS Academy](https://vanillajsacademy.com/).
 
-[Visit my blog](https://barker.codes/)
+[Visit my blog](https://barker.codes/) 👈
